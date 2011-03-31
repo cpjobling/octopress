@@ -2,6 +2,7 @@ require "rubygems"
 require "bundler"
 Bundler.setup
 
+require 'thread'
 require 'source/_helpers'
 
 site_url    = "http://yoursite.com"   # deployed site url for sitemap.xml generator
