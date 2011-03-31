@@ -3,7 +3,7 @@ destination: site
 markdown: rdiscount
 pygments: true
 permalink: /blog/:year/:month/:day/:title
-url: http://yoursite.com
+url: http://dev.cpjobling.org.uk
 multiviews: true
 sass: false
 haml: true
